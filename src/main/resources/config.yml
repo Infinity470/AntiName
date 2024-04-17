@@ -1,0 +1,11 @@
+# Set it to true
+pluginEnable: false
+punishCommand: "kick %player% This name not allowed"
+
+# Player name
+playerName:
+  - player
+  - player
+  - player
+  - player
+  - player

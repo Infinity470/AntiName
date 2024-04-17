@@ -1,0 +1,10 @@
+name: AntiName
+author: OVERLOAD48
+version: '${project.version}'
+main: com.arctic.AntiName
+
+commands:
+  antiname:
+    description: Reload AntiName config file
+    permission: antiname.reload
+    permission-message: You can not use that command!
